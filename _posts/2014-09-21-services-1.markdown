@@ -1,0 +1,9 @@
+---
+layout: default
+img: history-screenshot.png
+category: Services
+title: A bit of history
+description: |
+---
+
+We are big fans and heavy users of RSS reading. When Google stopped their reader service in 2013, we started to build this site to serve our own purpose, and more importantly, to serve you. In the past 3 years, the site has always been running and we've done our best to maintain it as a free service. We hope you find it a little useful. 
